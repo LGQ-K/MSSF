@@ -18,7 +18,6 @@ dist/
 
 # Model/data artifacts
 checkpoints/
-work_dirs/
 data/
 detection_data_results/
 *.pth
